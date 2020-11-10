@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multbroker/eureka/eureka.iml" filepath="$PROJECT_DIR$/multbroker/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multbroker/gateway/gateway.iml" filepath="$PROJECT_DIR$/multbroker/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/multbroker.iml" filepath="$PROJECT_DIR$/.idea/multbroker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multbroker/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/multbroker/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multbroker/eureka/service-registry.iml" filepath="$PROJECT_DIR$/multbroker/eureka/service-registry.iml" />
+    </modules>
+  </component>
+</project>
